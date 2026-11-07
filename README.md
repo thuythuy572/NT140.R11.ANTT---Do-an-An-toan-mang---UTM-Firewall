@@ -22,7 +22,8 @@ WAN của OPNsense kết nối VMware NAT và nhận địa chỉ qua DHCP. LAN 
 ## Tài liệu theo tuần
 
 - [Tuần 2: Thiết kế mạng và kế hoạch kiểm thử chính sách firewall](docs/week-2-network-design.md)
+- [Tuần 4: Runbook triển khai nền tảng OPNsense trên VMware](docs/week-4-opnsense-baseline.md)
 
 ## Trạng thái
 
-Tuần 2 đã hoàn thành thiết kế topology, kế hoạch địa chỉ, luồng lưu lượng và kết quả kỳ vọng của các chính sách firewall. Cấu hình thực tế, log và ảnh minh chứng sẽ được bổ sung trong các giai đoạn triển khai và kiểm thử.
+Tuần 2 đã hoàn thành thiết kế topology, kế hoạch địa chỉ, luồng lưu lượng và kết quả kỳ vọng của các chính sách firewall. Tuần 4 bổ sung runbook triển khai, baseline DHCP/DNS/NAT/firewall và ma trận nghiệm thu. Kết quả thực tế, log và ảnh minh chứng chỉ được cập nhật sau khi chạy trên môi trường lab.
